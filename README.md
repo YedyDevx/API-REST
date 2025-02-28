@@ -1,4 +1,4 @@
-#REST API con Node.js, Express y PostgreSQL
+<h1>REST API con Node.js, Express y PostgreSQL</h1>
 
 <p>Este proyecto es una API RESTful desarrollada con Node.js y Express, utilizando PostgreSQL como base de datos. Su propósito es gestionar usuarios con operaciones CRUD (Crear, Leer, Actualizar y Eliminar).</p>
 
