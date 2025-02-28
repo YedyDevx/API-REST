@@ -2,8 +2,8 @@
 
 <p>Este proyecto es una API RESTful desarrollada con Node.js y Express, utilizando PostgreSQL como base de datos. Su propósito es gestionar usuarios con operaciones CRUD (Crear, Leer, Actualizar y Eliminar).</p>
 
+<div>🚀 <strong>Características:</strong> </div>
 <ul>
-    <li>🚀 <strong>Características:</strong></li>
     <li>📌 Express.js como framework para manejar las solicitudes HTTP.</li>
     <li>🗄️ PostgreSQL para almacenar datos de usuarios.</li>
     <li>🔐 Validaciones de datos para garantizar seguridad y consistencia.</li>
